@@ -23,5 +23,12 @@ I use supporting tools such as:
 <br>
 - bar chart: https://apexcharts.com/docs/react-charts
 
+<br>
+<br>
+<div style="color:red">
+
+### I apologize if the code structure is still messy and the finishing details are not perfect due to time constraints, thank you.
+
+</div>
 
 
