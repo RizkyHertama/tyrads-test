@@ -1,0 +1,76 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100px;
+    background: white;
+    z-index: 100;
+    transition: all 0.5s ease;
+}
+
+.icon-chat-container {
+  margin-top : 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50%;
+}
+
+.icon-chat {
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #F3D7CA; 
+  border-radius: 50%; 
+}
+
+.icon-container {
+  margin-top : 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  background: #ddd; 
+  margin : 0 30px;
+  border-radius: 25px;
+}
+
+.icon-home{
+  width: 20px;
+  height: 20px;
+  color : white;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #89CFF0; 
+  border-radius: 50%;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.profile {
+  margin-top : 50%;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.profile-photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #ddd; 
+  background-size: cover;
+}
+
+.logout-icon {
+  padding: 10px;
+  text-align: center;
+  border-radius: 50%; 
+}
